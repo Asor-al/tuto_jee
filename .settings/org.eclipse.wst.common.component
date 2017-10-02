@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="tuto_jee_ocr">
+    <wb-module deploy-name="tuto">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="tuto_jee_ocr"/>
-        <property name="java-output-path" value="/tuto_jee_ocr/build/classes"/>
+        <property name="java-output-path" value="/tuto/build/classes"/>
+        <property name="context-root" value="tuto"/>
     </wb-module>
 </project-modules>
