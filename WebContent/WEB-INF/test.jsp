@@ -8,5 +8,9 @@
 
     <body>
         <p>Ceci est une page générée depuis une JSP.</p>
+        <%
+        String param = (String) request.getAttribute("test");
+        out.println(param);
+        %>
     </body>
 </html>
